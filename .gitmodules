@@ -22,3 +22,6 @@
 [submodule "funcit"]
 	path = funcit
 	url = git://github.com/jupiterjs/funcit.git
+[submodule "can"]
+	path = can
+	url = https://github.com/jupiterjs/canjs.git
