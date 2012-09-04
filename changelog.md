@@ -1,3 +1,23 @@
+## 3.2.3 (9/04/12)
+
+### FuncUnit
+
+- Changed `funcunit/run` to `funcunit/open/<type>` run with
+
+      js funcunit/open/selenium http://localhost/test/qunit.html -browser "googlechrome" -out testresults.xml
+
+- Added command line options for `browser`, `out`
+- Coverage report template fixes
+- Framemode for PhantomJS tests
+
+### Steal
+
+- Fixed CSS bug in IE
+
+### jQueryMX
+
+- Minor cleanups and fixes (formParams, Model store)
+
 ## 3.2.2 (1/20/12)
 
 ### JavaScriptMVC
@@ -15,7 +35,7 @@
 - fixed loaded bug
 - added toClass on generators
 - fixed CSS url and data references in production builds
-- improved error handling in steal.request 
+- improved error handling in steal.request
 - upgrade to LESS v1.1.6
 - fixed cache busting in IE
 - fixed steal.crawl to handle subdirectories
