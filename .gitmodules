@@ -1,24 +1,24 @@
 [submodule "documentjs"]
 	path = documentjs
-	url = git://github.com/jupiterjs/documentjs.git
+	url = git://github.com/bitovi/documentjs.git
 [submodule "funcunit"]
 	path = funcunit
-	url = git://github.com/jupiterjs/funcunit.git
+	url = git://github.com/bitovi/funcunit.git
 [submodule "jquery"]
 	path = jquery
-	url = git://github.com/jupiterjs/jquerymx.git
+	url = git://github.com/bitovi/jquerymx.git
 [submodule "steal"]
 	path = steal
-	url = git://github.com/jupiterjs/steal.git
+	url = git://github.com/bitovi/steal.git
 [submodule "mxui"]
 	path = mxui
-	url = git://github.com/jupiterjs/mxui.git
+	url = git://github.com/bitovi/mxui.git
 [submodule "envjs"]
 	path = envjs
-	url = git://github.com/jupiterjs/env-js.git
+	url = git://github.com/bitovi/env-js.git
 [submodule "mxutil"]
 	path = mxutil
-	url = git://github.com/jupiterjs/mxutil.git
+	url = git://github.com/bitovi/mxutil.git
 [submodule "funcit"]
 	path = funcit
 	url = git://github.com/jupiterjs/funcit.git
