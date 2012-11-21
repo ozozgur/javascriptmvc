@@ -6,7 +6,7 @@
 	url = git://github.com/bitovi/funcunit.git
 [submodule "jquery"]
 	path = jquery
-	url = git://github.com/bitovi/jquerymx.git
+	url = git://github.com/jupiterjs/jquerymx.git
 [submodule "steal"]
 	path = steal
 	url = git://github.com/bitovi/steal.git
