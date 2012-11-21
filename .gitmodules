@@ -12,7 +12,7 @@
 	url = git://github.com/bitovi/steal.git
 [submodule "mxui"]
 	path = mxui
-	url = git://github.com/bitovi/mxui.git
+	url = git://github.com/jupiterjs/mxui.git
 [submodule "envjs"]
 	path = envjs
 	url = git://github.com/bitovi/env-js.git
