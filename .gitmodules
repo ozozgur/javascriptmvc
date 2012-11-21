@@ -18,7 +18,7 @@
 	url = git://github.com/bitovi/env-js.git
 [submodule "mxutil"]
 	path = mxutil
-	url = git://github.com/bitovi/mxutil.git
+	url = git://github.com/jupiterjs/mxutil.git
 [submodule "funcit"]
 	path = funcit
 	url = git://github.com/jupiterjs/funcit.git
