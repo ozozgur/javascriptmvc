@@ -14,7 +14,7 @@ steal.config({
 		"yui/yui.js" : "can/lib/yui-3.7.3.js",
 		"zepto/zepto.js" : "can/lib/zepto.1.0rc1.js"
 	},
-	shim : {
+	shim: {
 		jquery: {
 			exports: "jQuery"
 		}
