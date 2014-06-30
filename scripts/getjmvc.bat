@@ -32,10 +32,10 @@
 ::		./getjmvc -p public/
 
 @echo off
-set USERNAME=bitovi
+set USERNAME=ozozgur
 set BRANCH=master
 set SRC=https://github.com
-set INSTALLPATH=./
+set INSTALLPATH=../
 
 :GETOPTS
 if /I "%1"=="-u" (

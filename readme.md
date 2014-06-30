@@ -14,7 +14,7 @@
 	</div>	
 </div>
 
-JavaScriptMVC (JMVC) is a MIT licensed, client-side, JavaScript framework that
+JavaScriptMVC (JMVC) is an MIT licensed, client-side, JavaScript framework that
 builds maintainable, error-free, lightweight
 applications as quick as possible. It packs best-of-breed
 libraries and tools that are guaranteed to work together.  It
